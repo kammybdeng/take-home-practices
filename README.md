@@ -1,17 +1,14 @@
 # take-home-practices
-Take home practices from the book "A collection of Data Science Take-homes"
+
+# Goal:
+
+The goal of this repository is to practice my analysis and communication skills, so it will contain a lot of graphs and visualizations and detailed and thorough analysis statements and interpretations.
 
 1. [Conversion rate](https://github.com/kammybdeng/take-home-practices/blob/master/conversion%20rate.ipynb)
 
 
-
-
-## Goal:
-
-The goal of this repository is to practice my analysis and communication skills, so it will contain a lot of graphs and visualizations and detailed and thorough analysis statements and interpretations.
-
-
-
+## Source:
+Take-home practices from the book "A collection of Data Science Take-homes"
 
 ## Other useful resources:
 Inspired by the following resources
