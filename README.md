@@ -1,6 +1,7 @@
 # take-home-practices
 
-currently working on a kaggle competition, so update will be slow.
+
+Currently working on a Kaggle competition, so update will be slow...
 
 
 ## Goal
