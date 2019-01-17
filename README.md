@@ -1,5 +1,8 @@
 # take-home-practices
 
+currently working on a kaggle competition, so update will be slow.
+
+
 ## Goal
 
 The goal of this repository is to practice my analysis and communication skills, so it will contain a lot of graphs and visualizations and detailed and thorough analysis statements and interpretations.
